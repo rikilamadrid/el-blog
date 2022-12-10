@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "./controllers",
+      "src": "/routes",
       "dest": "/"
     }
   ]
